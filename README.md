@@ -6,7 +6,7 @@
 [![Open to Work](https://img.shields.io/badge/🚀-Open%20to%20Work-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/abhishek-gnanasekar/)  
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge&logo=vercel)](https://my3-dportfolio-vert.vercel.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Gnanasekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-gnanasekar/)  
-[![GitHub](https://img.shields.io/badge/GitHub-abhishekrithik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekrithik)  
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekrithik)  
 
 ---
 
