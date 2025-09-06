@@ -35,15 +35,15 @@ I’m actively seeking **Full-Stack / MERN Stack Developer roles** where I can c
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/firebase.png"/>  
 
 ---
-
 ### ⚙️ Tools & Platforms
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/vercel.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/render.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  
-
+<p align="left">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/vercel.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/render.png"/>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+</p>
 ---
 
 ### 🚀 Featured Projects
