@@ -1,5 +1,5 @@
-## Hi there 👋 It's me Abhishek G  
-
+## Hi there 👋 It's me Abhishek   
+- 🔭 Here's my [portfolio](https://my3-dportfolio-vert.vercel.app/) 
 **MERN Stack Developer | React | Node.js | MongoDB | Express.js**  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -44,9 +44,8 @@ I’m actively seeking **Full-Stack / MERN Stack Developer roles** where I can c
 <p align="left">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+  <img width="50" height="50" src="https://img.icons8.com/pulsar-color/48/postman-api.png" alt="postman-api"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/vercel.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/render.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 </p>
 
